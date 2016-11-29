@@ -5,7 +5,7 @@ cities:
 - melbourne
 - washington DC
 - new york
-- online
+- remote
 commitment: part-time
 cost_description: $349 
 display_name: Data Science for Leaders
@@ -18,15 +18,12 @@ program_slug: data-science-for-leaders
 promises_job: false
 scholarships: 'No'
 topics:
-- data analytics
-- data science
+- data-science
 - statistics
-- machine learning
-- data visualization
+- machine-learning
 - regression
-- predictive analytics
 - algorithms
-- big data
+- big-data
 tuition: 349
 tuition_units: USD
 reports_graduation_and_placement_rates: "No"
